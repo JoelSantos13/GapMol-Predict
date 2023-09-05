@@ -40,6 +40,9 @@ This part involves the prediction of the HOMO-LUMO energy gap of organic compoun
 6. Calculating model performance metrics such as Mean Absolute Error (MAE) and R-squared (R^2).
 7. Plotting the predicted vs. observed energy gap.
 
+![Results Image](https://github.com/JoelSantos13/GapMol-Predict/blob/main/plot.svg?raw=1)
+
+
 ### Saving and Loading Models
 
 The code also includes functionality for saving and loading trained machine learning models and a scaler for future use.
