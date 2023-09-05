@@ -4,6 +4,9 @@
 
 This repository contains code for predicting the HOMO-LUMO energy gap of organic compounds using molecular descriptors generated from SMILES (Simplified Molecular Input Line Entry System) representations. HOMO (highest occupied molecular orbital) and LUMO (lowest unoccupied molecular orbital) are frontier molecular orbitals that play a significant role in chemical bond formation and various chemical reactions.
 
+![HOMO-LUMO Image](https://github.com/JoelSantos13/GapMol-Predict/blob/main/plainHOMO-LUMOEnegygap%20.jpg?raw=1)
+
+
 ## Getting Started
 
 ### Prerequisites
